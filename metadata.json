@@ -1,0 +1,6 @@
+{
+  "name": "Vektor Hardware",
+  "description": "Precision modular compute workstations, optical acoustics, and reference hardware engineered in obsidian glass and anodized aluminum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
